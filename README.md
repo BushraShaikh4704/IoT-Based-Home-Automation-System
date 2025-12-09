@@ -57,14 +57,18 @@ This IoT Home Automation System shows how a simple microcontroller like the Node
 It is a beginner-friendly project that helps students understand IoT, cloud communication, and basic electronics.
 
 ## 🖼Project Images
-
+### Model
 ![Model](Images/1%20Final%20Model.jpg)
 
+### Circuit
 ![Circuit](Images/2%20Circuit%20Diagram.png)
 
+### App-Making
 ![App-Making](Images/3%20App%20Making%20using%20Kodular%20Creator.jpg)
 
+### ThingSpeak
 ![ThingSpeak](Images/4%20ThingSpeak%20Setup.jpg)
 
+### Control-Blocks
 ![Control-Blocks](Images/5%20Control-Blocks.jpg)
 
