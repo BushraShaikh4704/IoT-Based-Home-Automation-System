@@ -3,13 +3,13 @@ IoT-Based Home Automation System This project controls home appliances like ligh
 
 ## Project Images
 
-![Model](Images/1-1%20Final%20Model.jpg)
+![Model](Images/1%20Final%20Model.jpg)
 
-![Circuit](Images/2-2%20Circuit%20Diagram.png)
+![Circuit](Images/2%20Circuit%20Diagram.png)
 
-![App-Making](Images/3-3%20App%20Making%20using%20Kodular%20Creator.jpg)
+![App-Making](Images/3%20App%20Making%20using%20Kodular%20Creator.jpg)
 
-![ThingSpeak](Images/4-4%20ThingSpeak%20Setup.jpg)
+![ThingSpeak](Images/4%20ThingSpeak%20Setup.jpg)
 
-![Control-Blocks](Images/5-5%20Control-Blocks.jpg)
+![Control-Blocks](Images/5%20Control-Blocks.jpg)
 
