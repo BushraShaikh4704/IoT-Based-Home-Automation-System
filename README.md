@@ -3,57 +3,55 @@ IoT-Based Home Automation System This project controls home appliances like ligh
 
 ## ⭐Features
 Control home appliances from anywhere using the internet
-
+<br>
 Works through Wi-Fi (using ESP8266 NodeMCU)
-
+<br>
 Real-time data monitoring using ThingSpeak
-
+<br>
 Easy-to-use mobile app built using Kodular Creator
-
+<br>
 Simple circuit design suitable for beginners
-
+<br>
 Low-cost components
 
 ## 🛠Components Used
 ESP8266 NodeMCU
-
+<br>
 Relay Module (1-channel or 2-channel)
-
+<br>
 Light Bulb / Fan / Any Device
-
+<br>
 Jumper Wires
-
+<br>
 Breadboard
-
+<br>
 5V Power Supply
-
+<br>
 Smartphone (for app control)
 
 ## 🛠How It Works
 The NodeMCU connects to your home Wi-Fi network.
-
+<br>
 The mobile app sends ON/OFF commands to ThingSpeak or directly to the NodeMCU.
-
+<br>
 NodeMCU reads these commands and activates the relay.
-
+<br>
 The relay switches the appliances ON or OFF.
-
+<br>
 ThingSpeak shows real-time status and data.
 
 ## 🛠Applications
 Smart homes
-
+<br>
 Remote appliance control
-
+<br>
 Energy-saving solutions
-
+<br>
 Home automation learning projects
 
-
 ## ✔Conclusion
-
 This IoT Home Automation System shows how a simple microcontroller like the NodeMCU can automate everyday appliances using Wi-Fi and cloud services.
-
+<br>
 It is a beginner-friendly project that helps students understand IoT, cloud communication, and basic electronics.
 
 ## 🖼Project Images
