@@ -54,6 +54,13 @@ This IoT Home Automation System shows how a simple microcontroller like the Node
 <br>
 It is a beginner-friendly project that helps students understand IoT, cloud communication, and basic electronics.
 
+## 🤝Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements or fixes.
+
+## 📄License
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
 ## 🖼Project Images
 ### Model
 ![Model](Images/1%20Final%20Model.jpg)
