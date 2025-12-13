@@ -23,7 +23,7 @@ Low-cost components
 - Light
 - Electric Wires
 - Bulb holder
-- Bread board
+- Breadboard
 - Wi-Fi connection  
 ### Steps
 1. Install **Arduino IDE**
