@@ -2,7 +2,7 @@
 const char* ssid     = "Redmi 9"; // Mobile Hostpot Name (Works only with 4G Mobiles)
 const char* password = "12345678"; // Enter Mobile Hospot Password
 //chennel ID
-unsigned long channel = 2640113;
+unsigned long channel = 2640113; // Thingspeak channel ID
 
 int field1 = 1;
 int field2 = 2;
