@@ -20,6 +20,10 @@ Low-cost components
 - Relay module  
 - Jumper wires & appliances  
 - Arduino IDE  
+- Light
+- Electric Wires
+- Bulb holder
+- Bread board
 - Wi-Fi connection  
 ### Steps
 1. Install **Arduino IDE**
@@ -29,6 +33,7 @@ Low-cost components
 5. Select **NodeMCU board & COM port**
 6. Upload the code to ESP8266
 7. Connect hardware as per circuit diagram
+8. Control light via App
 ### Output
 Control home appliances wirelessly using Wi-Fi.
 
