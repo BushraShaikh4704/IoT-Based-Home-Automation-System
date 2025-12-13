@@ -14,20 +14,24 @@ Simple circuit design suitable for beginners
 <br>
 Low-cost components
 
-## 🛠Components Used
-ESP8266 NodeMCU
-<br>
-Relay Module (1-channel or 2-channel)
-<br>
-Light Bulb / Fan / Any Device
-<br>
-Jumper Wires
-<br>
-Breadboard
-<br>
-5V Power Supply
-<br>
-Smartphone (for app control)
+## 🔧 How to Set Up
+### Requirements
+- ESP8266 NodeMCU  
+- Relay module  
+- Jumper wires & appliances  
+- Arduino IDE  
+- Wi-Fi connection  
+### Steps
+1. Install **Arduino IDE**
+2. Add **ESP8266 board** in Board Manager
+3. Open the `.ino` file from this repository
+4. Enter your **Wi-Fi SSID and password**
+5. Select **NodeMCU board & COM port**
+6. Upload the code to ESP8266
+7. Connect hardware as per circuit diagram
+### Output
+Control home appliances wirelessly using Wi-Fi.
+
 
 ## 📱How It Works
 The NodeMCU connects to your home Wi-Fi network.
